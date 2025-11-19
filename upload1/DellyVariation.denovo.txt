@@ -1,0 +1,18 @@
+CHROM	POS	ID	REF	ALT	FILTER	SVTYPE	PARENT1_GT	PARENT2_GT	CHILD_GT	QUALITY_METRICS
+No de novo mutations found in the trio.
+
+De novo criteria:
+- Child (HG00514) has variant (0/1 or 1/1)
+- Both parents (HG00512, HG00513) are homozygous reference (0/0)
+No potential de novo mutations found in the trio.
+
+De novo criteria (pedigree-agnostic):
+- Exactly one sample has variant (0/1 or 1/1)
+- The other two samples are homozygous reference (0/0)
+- Checked all three samples (HG00512, HG00513, HG00514) as potential probands
+No potential de novo mutations found in the trio.
+
+De novo criteria (pedigree-agnostic):
+- Exactly one sample has variant (0/1 or 1/1)
+- The other two samples are homozygous reference (0/0)
+- Checked all three samples (HG00512, HG00513, HG00514) as potential probands

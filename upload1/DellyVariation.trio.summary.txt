@@ -1,0 +1,68 @@
+==========================================
+TRIO VARIANT COMBINATION SUMMARY REPORT
+==========================================
+
+Generated: Wed Nov 19 21:45:46 GMT 2025
+Input VCF: DellyVariation.vcf
+Samples: HG00512, HG00513, HG00514
+
+TOTAL VARIANTS: 17113
+
+--- GENOTYPE PATTERNS ---
+All homozygous reference (0/0): 0 (0.00%)
+All three with variant: 8063 (47.12%)
+Two samples with variant: 0 (0.00%)
+Only HG00512 with variant: 0 (0.00%)
+Only HG00513 with variant: 0 (0.00%)
+Only HG00514 with variant: 0 (0.00%)
+Other patterns: 9050 (52.88%)
+
+--- BY STRUCTURAL VARIANT TYPE ---
+
+DELETIONS (DEL) - Function: Removes DNA sequence
+  Total: 11669 (68.2%)
+  All with variant: -1717 (-14.7% of DEL)
+
+INSERTIONS (INS) - Function: Adds DNA sequence
+  Total: 5275 (30.8%)
+  All with variant: 769 (14.6% of INS)
+
+DUPLICATIONS (DUP) - Function: Copies DNA segment
+  Total: 169 (1.0%)
+  All with variant: -39 (-23.1% of DUP)
+
+--- CHROMOSOMAL DISTRIBUTION (LOCATION) ---
+
+  chr10: 837 variants (4.89%)
+  chr11: 813 variants (4.75%)
+  chr12: 824 variants (4.82%)
+  chr13: 633 variants (3.70%)
+  chr14: 515 variants (3.01%)
+  chr15: 442 variants (2.58%)
+  chr16: 450 variants (2.63%)
+  chr17: 504 variants (2.95%)
+  chr18: 463 variants (2.71%)
+  chr19: 366 variants (2.14%)
+  chrX: 502 variants (2.93%)
+  chr1: 1297 variants (7.58%)
+  chr2: 1384 variants (8.09%)
+  chr3: 1203 variants (7.03%)
+  chr4: 1229 variants (7.18%)
+  chr5: 1135 variants (6.63%)
+  chr6: 1107 variants (6.47%)
+  chr7: 964 variants (5.63%)
+  chr8: 842 variants (4.92%)
+  chr9: 705 variants (4.12%)
+  chr20: 399 variants (2.33%)
+  chr21: 231 variants (1.35%)
+  chr22: 268 variants (1.57%)
+
+--- PRECISION ---
+  Precise: 16470 (96.2%)
+  Imprecise: 643 (3.8%)
+
+--- KEY FINDINGS ---
+
+  * No de novo mutations detected (no variants with single sample variant)
+
+==========================================
